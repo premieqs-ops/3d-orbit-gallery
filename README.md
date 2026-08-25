@@ -1,2 +1,14 @@
-# 3d-orbit-gallery
-3D particle sphere with orbiting image gallery — Next.js, React Three Fiber, Tailwind, TypeScript
+# 3D Orbit Gallery
+
+Particle sphere with orbiting images — Next.js 15, TypeScript, Tailwind CSS, React Three Fiber.
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+## Live
+
+Deployed on Vercel.
